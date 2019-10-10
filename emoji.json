@@ -1,0 +1,890 @@
+{
+    "God_Tier": [
+        {
+            "name": "Thinking",
+            "emoji": ":thinking:",
+            "cost": 999999990000,
+            "grade": "God Tier"
+        }, 
+        {
+            "name": "Sob",
+            "emoji": ":sob:",
+            "cost": 234000000000,
+            "grade": "God Tier"
+        },
+        {
+            "name": "Joy",
+            "emoji": ":joy:",
+            "cost": 384000000000,
+            "grade": "God Tier"
+        },
+        {
+            "name": "Western Spy",
+            "emoji": ":spy:",
+            "cost": 2000000000,
+            "grade": "God Tier"
+        },
+        {
+            "name": "Poop",
+            "emoji": ":poop:",
+            "cost": 503000000000,
+            "grade": "God Tier"
+        }
+    ],
+    "Legendary": [
+        {
+            "name": "OK Hand",
+            "emoji": ":ok_hand:",
+            "cost": 716000000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "Triumph",
+            "emoji": ":triumph:",
+            "cost": 928000000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "Santa",
+            "emoji": ":santa:",
+            "cost": 31000000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "ROFL",
+            "emoji": ":rofl:",
+            "cost": 187000000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "Smiling Imp",
+            "emoji": ":smiling_imp:",
+            "cost": 40000000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "Japanese Ogre",
+            "emoji": ":japanese_ogre:",
+            "cost": 666000000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "Stuck Out Tongue Winking Eye",
+            "emoji": ":stuck_out_tongue_winking_eye:",
+            "cost": 12000000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "Clap",
+            "emoji": ":clap:",
+            "cost": 501000000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "Scream",
+            "emoji": ":scream:",
+            "cost": 394000000,
+            "grade": "Legendary"
+        }
+    ],
+    "Epic": [
+        {
+            "name": "Upside Down",
+            "emoji": ":upside_down:",
+            "cost": 750000,
+            "grade": "Epic"
+        },
+        {
+            "name": "Japanese Goblin",
+            "emoji": ":japanese_goblin:",
+            "cost": 263000,
+            "grade": "Epic"
+        },
+        {
+            "name": "Wave",
+            "emoji": ":wave:",
+            "cost": 841000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "Cowboy",
+            "emoji": ":cowboy:",
+            "cost": 626000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "Middle Finger",
+            "emoji": ":middle_finger:",
+            "cost": 482000,
+            "grade": "Legendary"
+        },
+        {
+            "name": "Sunglasses",
+            "emoji": ":sunglasses:",
+            "cost": 418000,
+            "grade": "Epic"
+        },
+        {
+            "name": "Fingers Crossed",
+            "emoji": ":fingers_crossed:",
+            "cost": 727000,
+            "grade": "Epic"
+        },
+        {
+            "name": "Skull",
+            "emoji": ":skull:",
+            "cost": 877000,
+            "grade": "Epic"
+        },
+        {
+            "name": "Busts In Silhouette",
+            "emoji": ":busts_in_silhouette:",
+            "cost": 100000,
+            "grade": "Epic"
+        },
+        {
+            "name": "Ghost",
+            "emoji": ":ghost:",
+            "cost": 160000,
+            "grade": "Epic"
+        },
+        {
+            "name": "Alien",
+            "emoji": ":alien:",
+            "cost": 111000,
+            "grade": "Epic"
+        },
+        {
+            "name": "ZZZ",
+            "emoji": ":zzz:",
+            "cost": 321000,
+            "grade": "Epic"
+        },
+        {
+            "name": "Zipper Mouth",
+            "emoji": ":zipper_mouth:",
+            "cost": 500000,
+            "grade": "Epic"
+        },
+        {
+            "name": "Kissing Closed Eyes",
+            "emoji": ":kissing_closed_eyes:",
+            "cost": 124000,
+            "grade": "Epic"
+        },
+        {
+            "name": "Smirk",
+            "emoji": ":smirk:",
+            "cost": 993000,
+            "grade": "Epic"
+        }
+    ],
+    "High_Grade": [
+        {
+            "name": "Sweat Smile",
+            "emoji": ":sweat_smile:",
+            "cost": 30000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Dizzy",
+            "emoji": ":dizzy_face:",
+            "cost": 74000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Call Me",
+            "emoji": ":call_me:",
+            "cost": 46000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Kiss",
+            "emoji": ":kiss:",
+            "cost": 53000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Nauseated",
+            "emoji": ":nauseated_face:",
+            "cost": 57000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Heart Eyes",
+            "emoji": ":heart_eyes:",
+            "cost": 90000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Guardsman",
+            "emoji": ":guardsman:",
+            "cost": 15000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Angry",
+            "emoji": ":angry:",
+            "cost": 42000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Smile",
+            "emoji": ":smile:",
+            "cost": 15000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Sleeping",
+            "emoji": ":sleeping:",
+            "cost": 25000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Money Mouth",
+            "emoji": ":money_mouth:",
+            "cost": 99999,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Sweat",
+            "emoji": ":sweat:",
+            "cost": 40000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Fearful",
+            "emoji": ":fearful:",
+            "cost": 35000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Frowning 2",
+            "emoji": ":frowning2:",
+            "cost": 15000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Thumbs Up",
+            "emoji": ":thumbsup:",
+            "cost": 30000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Thumbs Down",
+            "emoji": ":thumbsdown:",
+            "cost": 30000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Bust In Silhouette",
+            "emoji": ":bust_in_silhouette:",
+            "cost": 60000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Cry",
+            "emoji": ":cry:",
+            "cost": 22000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Metal",
+            "emoji": ":metal:",
+            "cost": 88000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Top Hat",
+            "emoji": ":tophat:",
+            "cost": 83000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Mortar Board",
+            "emoji": ":mortar_board:",
+            "cost": 60000,
+            "grade": "High Grade"
+        },
+        {
+            "name": "Laughing",
+            "emoji": ":laughing:",
+            "cost": 45000,
+            "grade": "High Grade"
+        }
+    ],
+    "Mid_Grade": [
+        {
+            "name": "Grimacing",
+            "emoji": ":grimacing:",
+            "cost": 1100,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Frowning",
+            "emoji": ":frowning:",
+            "cost": 14600,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Anguished",
+            "emoji": ":anguished:",
+            "cost": 5000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Raised Hand",
+            "emoji": ":raised_hand:",
+            "cost": 5000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Smiley",
+            "emoji": ":smiley:",
+            "cost": 4000,
+            "grade": "Mid Grade"
+        },   
+        {
+            "name": "Wink",
+            "emoji": ":wink:",
+            "cost": 2100,
+            "grade": "Mid Grade"
+        }, 
+        {
+            "name": "Hand Splayed",
+            "emoji": ":hand_splayed:",
+            "cost": 3600,
+            "grade": "Mid Grade"
+        },   
+        {
+            "name": "Slight Smile",
+            "emoji": ":slight_smile:",
+            "cost": 6700,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "V",
+            "emoji": ":v:",
+            "cost": 14700,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Handshake",
+            "emoji": ":handshake:",
+            "cost": 4800,
+            "grade": "Mid Grade"
+        },  
+        {
+            "name": "Relaxed",
+            "emoji": ":relaxed:",
+            "cost": 1000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Rage",
+            "emoji": ":rage:",
+            "cost": 10000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Robot",
+            "emoji": ":robot:",
+            "cost": 2000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Smile Cat",
+            "emoji": ":smile_cat:",
+            "cost": 6500,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Cold Sweat",
+            "emoji": ":cold_sweat:",
+            "cost": 4600,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Imp",
+            "emoji": ":imp:",
+            "cost": 12000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Joy Cat",
+            "emoji": ":joy_cat:",
+            "cost": 1900,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Slight Frown",
+            "emoji": ":slight_frown:",
+            "cost": 1300,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Relieved",
+            "emoji": ":relieved:",
+            "cost": 4300,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Disappointed Relieved",
+            "emoji": ":disappointed_relieved:",
+            "cost": 1500,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "No Mouth",
+            "emoji": ":no_mouth:",
+            "cost": 12000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Rolling Eyes",
+            "emoji": ":rolling_eyes:",
+            "cost": 3900,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Thermometer Face",
+            "emoji": ":thermometer_face:",
+            "cost": 1000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Head Bandage",
+            "emoji": ":head_bandage:",
+            "cost": 9800,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Kissing Heart",
+            "emoji": ":kissing_heart:",
+            "cost": 14500,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Neutral Face",
+            "emoji": ":neutral_face:",
+            "cost": 1000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Eyeglasses",
+            "emoji": ":eyeglasses:",
+            "cost": 9200,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Dark Sunglasses",
+            "emoji": ":dark_sunglasses:",
+            "cost": 13000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Expressionless",
+            "emoji": ":expressionless:",
+            "cost": 1700,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Kissing Smiling Eyes",
+            "emoji": ":kissing_smiling_eyes:",
+            "cost": 4500,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Tired",
+            "emoji": ":tired_face:",
+            "cost": 6200,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Muscle",
+            "emoji": ":muscle:",
+            "cost": 8300,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Confused",
+            "emoji": ":confused:",
+            "cost": 2700,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Lying",
+            "emoji": ":lying_face:",
+            "cost": 10100,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Kissing",
+            "emoji": ":kissing:",
+            "cost": 2100,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Eye",
+            "emoji": ":eye:",
+            "cost": 6000,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Pouting Cat",
+            "emoji": ":pouting_cat:",
+            "cost": 2000,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Footprints",
+            "emoji": ":footprints:",
+            "cost": 4100,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Stuck Out Tongue",
+            "emoji": ":stuck_out_tongue:",
+            "cost": 1400,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Vulcan",
+            "emoji": ":vulcan:",
+            "cost": 13800,
+            "grade": "Mid Grade"
+        },
+        {
+            "name": "Yum",
+            "emoji": ":yum:",
+            "cost": 3600,
+            "grade": "Mid Grade"
+        }    
+    ],
+    "Low_Grade": [
+        {
+            "name": "Grinning",
+            "emoji": ":grinning:",
+            "cost": 600,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Confounded",
+            "emoji": ":confounded:",
+            "cost": 50,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Astonished",
+            "emoji": ":astonished:",
+            "cost": 100,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Open Mouth",
+            "emoji": ":open_mouth:",
+            "cost": 750,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Punch",
+            "emoji": ":punch:",
+            "cost": 580,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Drooling",
+            "emoji": ":drooling_face:",
+            "cost": 690,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Sneezing",
+            "emoji": ":sneezing_face:",
+            "cost": 400,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Eyes",
+            "emoji": ":eyes:",
+            "cost": 110,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "School Satchel",
+            "emoji": ":school_satchel:",
+            "cost": 950,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Purse",
+            "emoji": ":purse:",
+            "cost": 900,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Ring",
+            "emoji": ":ring:",
+            "cost": 999,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Briefcase",
+            "emoji": ":briefcase:",
+            "cost": 900,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Closed Umbrella",
+            "emoji": ":closed_umbrella:",
+            "cost": 170,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Athletic Shoe",
+            "emoji": ":athletic_shoe:",
+            "cost": 620,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Boot",
+            "emoji": ":boot:",
+            "cost": 550,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "High Heel",
+            "emoji": ":high_heel:",
+            "cost": 840,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Shoe",
+            "emoji": ":mans_shoe:",
+            "cost": 260,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Hushed",
+            "emoji": ":hushed:",
+            "cost": 470,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Cop",
+            "emoji": ":cop:",
+            "cost": 800,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Construction Worker",
+            "emoji": ":construction_worker:",
+            "cost": 320,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Point Down",
+            "emoji": ":point_down:",
+            "cost": 600,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Point Left",
+            "emoji": ":point_left:",
+            "cost": 600,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Point Up",
+            "emoji": ":point_up:",
+            "cost": 600,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Point Right",
+            "emoji": ":point_right:",
+            "cost": 600,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Sleepy",
+            "emoji": ":sleepy:",
+            "cost": 60,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Lips",
+            "emoji": ":lips:",
+            "cost": 970,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Tongue",
+            "emoji": ":tongue:",
+            "cost": 610,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Ear",
+            "emoji": ":ear:",
+            "cost": 920,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Nose",
+            "emoji": ":nose:",
+            "cost": 300,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Fist",
+            "emoji": ":fist:",
+            "cost": 910,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Weary",
+            "emoji": ":weary:",
+            "cost": 50,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Smiley Cat",
+            "emoji": ":smiley_cat:",
+            "cost": 400,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Heart Eyes Cat",
+            "emoji": ":heart_eyes_cat:",
+            "cost": 50,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Smirk Cat",
+            "emoji": ":smirk_cat:",
+            "cost": 370,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Kissing Cat",
+            "emoji": ":kissing_cat:",
+            "cost": 110,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Scream Cat",
+            "emoji": ":scream_cat:",
+            "cost": 700,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Crying Cat",
+            "emoji": ":crying_cat_face:",
+            "cost": 80,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Raised Hands",
+            "emoji": ":raised_hands:",
+            "cost": 240,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Pensive",
+            "emoji": ":pensive:",
+            "cost": 100,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Disappointed",
+            "emoji": ":disappointed:",
+            "cost": 940,
+            "grade": "Low Grade"
+        },   
+        {
+            "name": "Grin",
+            "emoji": ":grin:",
+            "cost": 150,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Unamused",
+            "emoji": ":unamused:",
+            "cost": 230,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Open Hands",
+            "emoji": ":open_hands:",
+            "cost": 400,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Worried",
+            "emoji": ":worried:",
+            "cost": 200,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Pray",
+            "emoji": ":pray:",
+            "cost": 440,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Mask",
+            "emoji": ":mask:",
+            "cost": 90,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Flushed",
+            "emoji": ":flushed:",
+            "cost": 80,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Hugging",
+            "emoji": ":hugging:",
+            "cost": 50,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Nerd",
+            "emoji": ":nerd:",
+            "cost": 570,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Writing Hand",
+            "emoji": ":writing_hand:",
+            "cost": 140,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Persevere",
+            "emoji": ":persevere:",
+            "cost": 350,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Stuck Out Tongue Closed Eyes",
+            "emoji": ":stuck_out_tongue_closed_eyes:",
+            "cost": 990,
+            "grade": "Low Grade"
+        },
+        {
+            "name": "Innocent",
+            "emoji": ":innocent:",
+            "cost": 60,
+            "grade": "Low Grade"
+        },   
+        {
+            "name": "Blush",
+            "emoji": ":blush:",
+            "cost": 50,
+            "grade": "Low Grade"
+        }
+    ]
+}
